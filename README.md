@@ -6,8 +6,8 @@ Hands-on Azure Administrator (AZ-104) labs and mini projects.
 
 Labs
 Lab	Topic	Status
-Lab01	Azure Virtual Machine	Planned
-Lab02	Static Website Hosting	Planned
+Lab01	Azure Virtual Machine	done
+Lab02	Static Website Hosting	done
 Lab03	RBAC	Planned
 Lab04	Azure Storage	Planned
 Lab05	Azure Backup	Planned
